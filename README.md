@@ -1,6 +1,6 @@
 # DatabaseCry - 本地数据库加密系统
 
-基于 **QSP项目** 加密逻辑构建的本地数据库加密工具，采用模块化架构设计。
+基于[QSP](https://github.com/ARS4EVER/QSP)加密逻辑构建的本地数据库加密工具，采用模块化架构设计。
 
 ## 项目架构
 
@@ -312,6 +312,6 @@ database_cry/                    # 项目根目录
 
 ## 参考
 
-- [QSP项目](https://github.com/your-qsp-repo)
+- [QSP](https://github.com/ARS4EVER/QSP)
 - [NIST后量子密码学标准](https://csrc.nist.gov/projects/post-quantum-cryptography)
 - [cryptography库文档](https://cryptography.io/en/latest/)
